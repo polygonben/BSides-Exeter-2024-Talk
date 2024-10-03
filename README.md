@@ -14,4 +14,4 @@ The PowerPoint presentation goes over the 50MB limit, but it is currently being 
 * [Image to Spreadsheet](https://github.andrewt.net/mosaic)
 * [Astaroth - C2 via YT channel desc.](https://blog.talosintelligence.com/astaroth-analysis)
 * [Stego abuse in the wild repo.](https://github.com/lucacav/steg-in-the-wild)
-* [Link to recording to BSides 2024 talk]() - *Link to be added*
+* [Link to recording to BSides 2024 talk](https://www.youtube.com/watch?v=WLoon-6d2oU) 
